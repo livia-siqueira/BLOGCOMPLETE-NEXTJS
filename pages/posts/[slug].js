@@ -1,6 +1,6 @@
 import Head from "next/head";
 import PageContent from "../../components/PostContent";
-import { getAllPosts, getPostData, getPostsFiles } from "../../helpers/utils";
+import {getPostData, getPostsFiles } from "../../helpers/utils";
 
 const PagePost = ({ post }) => {
   return (
