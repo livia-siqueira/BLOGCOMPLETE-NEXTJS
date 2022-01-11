@@ -4,7 +4,7 @@ import styles from "./layout.module.css";
 const Logo = () => {
   return (
       <div className={styles.logo}>
-        Livia's Blog
+        Livia Blog
       </div>
   );
 };

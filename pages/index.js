@@ -8,7 +8,7 @@ const Home = ({ posts }) => {
     <>
       {" "}
       <Head>
-        <title>Livia's Blog</title>
+        <title>Livia Blog</title>
         <meta name="description" content="I post about programming"/>
       </Head>
       <Hero />

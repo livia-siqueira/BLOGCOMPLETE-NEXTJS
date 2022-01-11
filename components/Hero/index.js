@@ -11,10 +11,10 @@ const Hero = () => {
           height={300}
         />
       </div>
-      <h1>Hi, I'm Lívia</h1>
+      <h1>Hi, I am Lívia</h1>
       <p>
         This blog has the function of presenting the projects developed by me.
-        I'm a web development student and currently working with javascript, its
+        I am a web development student and currently working with javascript, its
         reactjs lib and nextjs framework. I study Flutter and deepen my
         knowledge in the javascript language;
       </p>
